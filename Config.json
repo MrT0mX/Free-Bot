@@ -1,0 +1,22 @@
+{
+  "author": "MrTomXxX",
+  "developermode": false,
+  "language": "en",
+  "notification": true,
+  "approval": false,
+  "OPERATORNAME": "Ratul_Hassan",
+  "OPERATORID": "100075290587473",
+  "OPERATORLINK": "https://www.facebook.com/MrTomXxX",
+  "BOTNAME": "mtx",
+  "PREFIX": ".",
+  "OPERATOR": [
+    "100075290587473"
+  ],
+  "ADMINBOT": [
+    "100075290587473"
+  ],
+  "APPROVED": ["100075290587473"],
+  "disabledcmds": [],
+  "disabledevents": [],
+  "note": "make sure that the bot name you entered is all lowercase"
+}

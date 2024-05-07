@@ -1,0 +1,9 @@
+{
+  "mtxdev": "http://fi3.bot-hosting.net:20536/",
+  "talk": "http://fi3.bot-hosting.net:20536/",
+  "teach": "http://fi3.bot-hosting.net:20536/",
+  "biblesearch": "https://bible-api.com/",
+  "weather": "https://api.openweathermap.org/data/2.5/weather?q=",
+  "sensui": "https://sensui-useless-apis.codersensui.repl.co/",
+  "mtxdev": "http://fi3.bot-hosting.net:20536/"
+}
